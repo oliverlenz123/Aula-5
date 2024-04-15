@@ -68,3 +68,7 @@ $ax²+bx+c=O$
 Fórmula de bhaskara
 
 $x=\frac{-b±\sqrt{b²-4.a.c}}{2.a}$
+
+Discriminando Delta
+
+$\delta$b²-4.a.c
