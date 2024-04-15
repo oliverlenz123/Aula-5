@@ -60,3 +60,4 @@ A:área
 $\pi$:constante Pi(3.14)
 
 r:raio
+
