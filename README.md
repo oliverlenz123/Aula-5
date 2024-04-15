@@ -2,11 +2,11 @@
 
 Triângulo $A=\frac{b.h}{2}$
 
-A= área
+A:área
 
-b= base
+b:base
 
-h= altura
+h:altura
 
 
 
