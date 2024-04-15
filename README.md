@@ -28,3 +28,15 @@ A:área
 D:diagonal maior
 
 d:diagonal menor 
+
+Retângulo 
+
+$A=\frac{(B+b).h}{2}
+
+A:área 
+
+B:base maior
+
+b:base menor
+
+h:altura 
