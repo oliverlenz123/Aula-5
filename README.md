@@ -71,4 +71,4 @@ $x=\frac{-b±\sqrt{b²-4.a.c}}{2.a}$
 
 Discriminando Delta
 
-$\deltab²-4.a.c$
+$\delta$
