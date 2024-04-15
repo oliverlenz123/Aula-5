@@ -67,4 +67,4 @@ $ax²+bx+c=O$
 
 Fórmula de bhaskara
 
-$x=\frac{-b±sqrtb²-4.a.c}{2.a}$
+$x=\frac{-b±\sqrt.b²-4.a.c}{2.a}$
