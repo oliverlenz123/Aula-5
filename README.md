@@ -11,7 +11,7 @@ b:base
 
 h:altura
 
-Retângulo 
+Quadrado 
 
-$A=\frac{(B+b).h}{2}$
+$A=L²$
 
