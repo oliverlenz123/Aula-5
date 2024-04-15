@@ -15,3 +15,7 @@ Quadrado
 
 $A=L²$
 
+A:área 
+
+L:lado
+
