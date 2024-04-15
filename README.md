@@ -63,4 +63,4 @@ r:raio
 
 Equação do 2 grau
 
-$ax²+bx+c=O
+$ax²+bx+c=O$
