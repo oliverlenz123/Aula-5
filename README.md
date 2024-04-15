@@ -31,7 +31,7 @@ d:diagonal menor
 
 Retângulo 
 
-$A=\frac{(B+b).h}{2}
+$A=\frac{(B+b).h}{2}$
 
 A:área 
 
