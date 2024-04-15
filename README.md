@@ -61,3 +61,6 @@ $\pi$:constante Pi(3.14)
 
 r:raio
 
+Equação do 2 grau
+
+$ax²+bx+c=O
